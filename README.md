@@ -24,3 +24,28 @@ A simple and effective personal budget dashboard to help you track your finances
 * **Personal Budget Dashbaord.xlsx - Dropdown Data.csv:** Contains data for dropdown menus used in other sheets.
 * **Personal Budget Dashbaord.xlsx - Calculations.csv:** Contains the formulas and calculations that power the dashboard.
 
+## 📸 Project Showcase
+
+Here's a glimpse of the different components of the Personal Budget Dashboard.
+
+### Main Dashboard
+*A high-level overview of your financial health, including income vs. expenses, savings rate, and category breakdowns.*
+![Main Dashboard View](./assets/dashboard.png)
+
+---
+
+### Budget Planning
+*Plan your budget for every month of the year to stay on track with your financial goals.*
+![Budget Planning View](./assets/planning.png)
+
+---
+
+### Transaction Tracking
+*A simple and clean interface to log all your daily income and expenses.*
+![Transaction Tracking View](./assets/tracking.png)
+
+---
+
+### Customizable Settings
+*Easily configure categories, set your starting year, and customize calculations to fit your needs.*
+![Settings View](./assets/settings.png)
