@@ -30,19 +30,19 @@ Here's a glimpse of the different components of the Personal Budget Dashboard.
 
 ### Main Dashboard
 *A high-level overview of your financial health, including income vs. expenses, savings rate, and category breakdowns.*
-![Main Dashboard View](./dashboard.png)
+![Main Dashboard View](./Dashboard.png)
 
 ---
 
 ### Budget Planning
 *Plan your budget for every month of the year to stay on track with your financial goals.*
-![Budget Planning View](./planning.png)
+![Budget Planning View](./Planning.png)
 
 ---
 
 ### Transaction Tracking
 *A simple and clean interface to log all your daily income and expenses.*
-![Transaction Tracking View](./tracking.png)
+![Transaction Tracking View](./Tracking.png)
 
 ---
 
